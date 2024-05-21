@@ -1,0 +1,174 @@
+				ABC Company
+				___________
+Region1
+__
+Salesman1			Rs 4500/-
+Salesman2			Rs 15640/-
+Salesman3			Rs 7160/-
+Salesman4			Rs 22850/-
+Salesman5			Rs 11050/-
+Salesman6			Rs 1520/-
+
+Total sale at region 1:		Rs 84930/-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Thu Aug 10 11:26:20 2023
+																																		  Page: 1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Region2
+__
+Salesman1			Rs 13360/-
+Salesman2			Rs 44530/-
+Salesman3			Rs 4790/-
+Salesman4			Rs 2100/-
+Salesman5			Rs 22250/-
+Salesman6			Rs 50960/-
+
+Total sale at region 2:		Rs 238910/-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Thu Aug 10 11:26:20 2023
+																																		  Page: 2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Region3
+__
+Salesman1			Rs 4300/-
+Salesman2			Rs 6910/-
+Salesman3			Rs 10320/-
+Salesman4			Rs 22850/-
+Salesman5			Rs 11920/-
+Salesman6			Rs 25020/-
+
+Total sale at region 3:		Rs 140340/-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Thu Aug 10 11:26:20 2023
+																																		  Page: 3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Region4
+__
+Salesman1			Rs 4750/-
+Salesman2			Rs 15960/-
+Salesman3			Rs 6160/-
+Salesman4			Rs 24950/-
+Salesman5			Rs 17930/-
+Salesman6			Rs 1520/-
+
+Total sale at region 4:		Rs 121790/-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Thu Aug 10 11:26:20 2023
+																																		  Page: 4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
